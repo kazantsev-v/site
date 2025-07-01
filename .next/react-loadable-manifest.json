@@ -1,0 +1,45 @@
+{
+  "app\\page.tsx -> @/components/sections/ai-monitoring-section": {
+    "id": 18621,
+    "files": [
+      "static/chunks/621.169f62c9c3be1969.js"
+    ]
+  },
+  "app\\page.tsx -> @/components/sections/cases-section": {
+    "id": 69743,
+    "files": [
+      "static/chunks/160.3b5f03bb1edf7e58.js",
+      "static/chunks/743.a7dc7c2a005954d4.js"
+    ]
+  },
+  "app\\page.tsx -> @/components/sections/process-section": {
+    "id": 97940,
+    "files": [
+      "static/chunks/940.dad18803e1ffea86.js"
+    ]
+  },
+  "app\\page.tsx -> @/components/sections/tech-section": {
+    "id": 38831,
+    "files": [
+      "static/chunks/831.ff7b3344ec84d5ac.js"
+    ]
+  },
+  "app\\page.tsx -> @/components/sections/testimonials-section": {
+    "id": 82628,
+    "files": [
+      "static/chunks/628.8b2b5fe2ce6f51f6.js"
+    ]
+  },
+  "node_modules\\.pnpm\\next@15.2.4_react-dom@19.1.0_react@19.1.0__react@19.1.0\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": 33300,
+    "files": [
+      "static/chunks/300.29dbb85f763c7226.js"
+    ]
+  },
+  "node_modules\\.pnpm\\next@15.2.4_react-dom@19.1.0_react@19.1.0__react@19.1.0\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": 78521,
+    "files": [
+      "static/chunks/521.e7dba1ca340e9dce.js"
+    ]
+  }
+}
